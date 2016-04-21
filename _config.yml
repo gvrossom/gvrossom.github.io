@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: My blog
+title: Gautier Van Rossom
 
 # Short description of your site
 description: A virtual proof that I'm awesome!
@@ -31,7 +31,8 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+# avatar: "/img/avatar-icon.png"
+avatar: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/8/005/048/248/07d9d45.jpg"
 
 # --- Footer options --- #
 
