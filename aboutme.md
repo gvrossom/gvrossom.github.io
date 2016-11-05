@@ -12,7 +12,3 @@ My name is Gautier Van Rossom. I have the following qualities:
 What else do you need?
 
 I am an economist by day, and a self taught programer by night.
-
-### my history
-
-...
