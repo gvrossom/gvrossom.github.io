@@ -13,8 +13,8 @@ Tutorials:
 
 ## Python
 
+### The Django framework
 
-
-
+- [The official django tutorial](https://docs.djangoproject.com/en/1.10/intro/tutorial01/)
 
 ...

@@ -4,7 +4,7 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Gautier Van Rossom. I have the following qualities:
+Hi, my name's Gautier. Here is a few stuff about me:
 
 - I'm passionate
 - I am an avid learner
